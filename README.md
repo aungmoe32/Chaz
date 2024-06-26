@@ -18,7 +18,7 @@
 
 ### Download apk
 
-https://expo.dev/artifacts/eas/qkhtehiWHerXG7NDVQ87FP.apk
+https://drive.google.com/file/d/1LmfkDXhVcBwL5nnau9K6_9coyEnO6IC0/view?usp=sharing
 
 ## Tech stack
 
@@ -40,6 +40,7 @@ https://expo.dev/artifacts/eas/qkhtehiWHerXG7NDVQ87FP.apk
 
 - Create firebase project and download `google-services.json`
 - add `google-services.json` to `android/app` folder
+- uncomment `android/app/google-services.json` in .gitignore
 - run `cp .env.example .env`
 - run `npm install`
 - run `eas build`
