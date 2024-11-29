@@ -1,5 +1,8 @@
 # Minimal chat app
 
+A feature-rich Android chat application designed for seamless and real-time communication. The app supports multiple functionalities such as instant messaging, video calling, and personalized profiles, providing a user-friendly and interactive experience.
+
+
 ## Demos
 
 <!-- <img src="screenshots/s1.jpg" width="150">
