@@ -16,6 +16,9 @@
   </tr>
 </table>
 
+### Demo Video
+https://youtu.be/eAF7teXrRVw?si=sK1NOlFwvMRUW4NU
+
 ### Download apk
 
 https://drive.google.com/file/d/1LmfkDXhVcBwL5nnau9K6_9coyEnO6IC0/view?usp=sharing
